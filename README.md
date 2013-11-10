@@ -1,4 +1,3 @@
-Clints
+Clients
 ======
 
-Lorem ipsum dolor sit amet
